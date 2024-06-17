@@ -11,6 +11,7 @@ Tools and Technologies
 4. Find Seller who has the highest total GMV in August 2017
 5. Find Seller who has Highest Transasction Cound in September 2017 for 'Fashion' Category
 
+Tools:
 1. Python
 2. Pandas
 3. Matplotlib
